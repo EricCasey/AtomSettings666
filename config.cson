@@ -1,0 +1,40 @@
+"*":
+  "activate-power-mode":
+    screenShake:
+      enabled: false
+      maxIntensity: 1
+  "atom-beautify":
+    general:
+      _analyticsUserId: "e54dafaf-6b17-4062-a71e-b5894b306044"
+    js:
+      indent_size: 2
+  core:
+    audioBeep: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "autoclose-html"
+      "vim-mode"
+      "activate-power-mode"
+    ]
+    openEmptyEditorOnStart: false
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    fontSize: 13
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+  "exception-reporting":
+    userId: "5f9bfd2d-a564-bd34-cb66-bce06e29cffd"
+  minimap:
+    scrollAnimation: true
+    scrollAnimationDuration: 500
+  "todo-show": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "vim-mode":
+    startInInsertMode: true
+  welcome:
+    showOnStartup: false
